@@ -1,8 +1,0 @@
-app:
-  name: demo
-  version: "1.0"
-  services:
-    web:
-      port: 8080
-      enabled: true
-    
