@@ -1,0 +1,8 @@
+app:
+ name: demoApp
+ version: "1.0"
+ services:
+   web:
+      port: 8080
+      enabled: Yes
+      description: "Це дуже довгий рядок який спеціально зроблений без переносу щоб перевищити ліміт у 140 символів і викликати попередження від yamllint"
